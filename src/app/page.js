@@ -10,7 +10,7 @@ import {
 export default function Home() {
   return (
     <Box
-      sx={{ minHeight: "100vh", backgroundColor: "background.default", py: 4 }}
+      sx={{ minHeight: "100vh", backgroundColor: "#EDF1FF", py: 4 }}
     >
       <Container maxWidth="lg">
         <div>

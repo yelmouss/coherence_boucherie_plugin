@@ -143,14 +143,14 @@ const BeefChart = () => {
                     françaises est conçu spécifiquement pour les sites web des
                     bouchers. Il permet aux clients de découvrir les différentes
                     pièces de viande avec leurs prix en temps réel, facilitant
-                    ainsi la prise de commande et l'expérience utilisateur.
+                    ainsi la prise de commande et l&apos;expérience utilisateur.
                   </Typography>
                   <Typography variant="body1" >
                     Développé entièrement en interne par notre équipe de
                     développement, ce plugin représente une opportunité
                     commerciale unique. Nous pouvons le commercialiser sur le
                     marché WordPress, générant des revenus récurrents pour
-                    l'agence.
+                    l&apos;agence.
                   </Typography>
                   <Box sx={{ p: 3, borderRadius: 2 }}>
                     <Typography variant="h6" gutterBottom>
